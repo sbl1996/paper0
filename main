@@ -1,0 +1,43 @@
+User
+  name
+  followers
+  answers
+  articles
+  Interest: TopicGraph
+    attr
+      weight <- (contrib_count, topic_follows)  ------------------ Question::Topic Distribution
+  Followee: [User]
+    infl <- (follower_count) ------------------ Agrees, Thanks, Favorite
+Topic
+  id
+  name
+  questions
+  subsribes
+  answers: [Answer]
+Answer
+  title
+
+
+算法1 计算用户兴趣图
+获得用户关注的主题，获得主题图
+对于用户的每个关注的主题
+    `$weight = Interest(contribution count, topic follows)$`
+(可选)通过图摘要去除权重低的节点
+
+算法2 计算用户感兴趣程度
+
+算法3 
+
+获得用户兴趣图`$G_U$`
+
+初始化影响图`$G_S$`为空图
+
+对于用户的每个关注的人
+    获得其兴趣图`$G_f$`及其对用户的影响因子`$w_f$`
+    `$G_S = Union(G_S, w_fG_f)$`
+    
+计算潜在兴趣图`$G_P = Diff(Union(G_U, G_S), G_U)$`
+
+根据潜在兴趣图节点权重进行主题推荐
+
+Concept

@@ -1,0 +1,39 @@
+{
+  "avatar_url_template": "https://pic4.zhimg.com/v2-64c0ab337a1bc85f7cbd0aa5949bacd0_{size}.jpg",
+  "included_answers_count": 2,
+  "avatar_url": "https://pic4.zhimg.com/v2-64c0ab337a1bc85f7cbd0aa5949bacd0_is.jpg",
+  "user_type": "people",
+  "answer_count": 27,
+  "url": "http://www.zhihu.com/api/v4/people/13fd0fce2affd948bfd821a8f7ed10f3",
+  "type": "people",
+  "included_articles_count": 1,
+  "url_token": "li-mu-23",
+  "id": "13fd0fce2affd948bfd821a8f7ed10f3",
+  "articles_count": 16,
+  "name": "李沐",
+  "headline": "",
+  "gender": 1,
+  "is_advertiser": false,
+  "favorited_count": 10092,
+  "is_org": false,
+  "thanked_count": 774,
+  "follower_count": 39440,
+  "voteup_count": 17323,
+  "badge": [
+    {
+      "topics": [
+        {
+          "introduction": "机器学习的一个分支，它基于试图使用包含复杂结构或由多重非线性变换构成的多个处理层对数据进行高层抽象的一系列算法。",
+          "avatar_url": "https://pic2.zhimg.com/5d3c206139ca2124997418db09b0bb11_is.jpg",
+          "name": "深度学习（Deep Learning）",
+          "url": "http://www.zhihu.com/api/v4/topics/19813032",
+          "type": "topic",
+          "excerpt": "机器学习的一个分支，它基于试图使用包含复杂结构或由多重非线性变换构成的多个处理层对数据进行高层抽象的一系列算法。",
+          "id": "19813032"
+        }
+      ],
+      "type": "best_answerer",
+      "description": "优秀回答者"
+    }
+  ]
+}

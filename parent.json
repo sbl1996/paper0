@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "avatar_url": "https://pic3.zhimg.com/50/6d7dc1d82127396331a952e93fda484e_hd.jpg",
+      "excerpt": "科学技术",
+      "id": "19556664",
+      "introduction": "科学技术",
+      "name": "科技",
+      "type": "topic",
+      "url": "http://www.zhihu.com/api/v3/topics/19556664"
+    }
+  ],
+  "paging": {
+    "is_end": false,
+    "is_start": true,
+    "next": "http://www.zhihu.com/api/v3/topics/19580349/parent?limit=10&offset=10",
+    "previous": "http://www.zhihu.com/api/v3/topics/19580349/parent?limit=10&offset=0"
+  }
+}

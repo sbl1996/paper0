@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "avatar_url": "https://pic3.zhimg.com/50/v2-9707953f0513ec0a84ebbf266bed10cc_hd.jpg",
+      "excerpt": "科学实验、检验、统计等所获得的和用于科学研究、技术设计、查证、决策等的数值。",
+      "id": "19554449",
+      "introduction": "科学实验、检验、统计等所获得的和用于科学研究、技术设计、查证、决策等的数值。",
+      "name": "数据",
+      "type": "topic",
+      "url": "http://www.zhihu.com/api/v3/topics/19554449"
+    },
+    {
+      "avatar_url": "https://pic4.zhimg.com/50/e82bab09c_hd.jpg",
+      "excerpt": "",
+      "id": "20013575",
+      "introduction": "",
+      "name": "程序分析",
+      "type": "topic",
+      "url": "http://www.zhihu.com/api/v3/topics/20013575"
+    },
+    {
+      "avatar_url": "https://pic4.zhimg.com/50/e82bab09c_hd.jpg",
+      "excerpt": "",
+      "id": "19916024",
+      "introduction": "",
+      "name": "随机数发生器",
+      "type": "topic",
+      "url": "http://www.zhihu.com/api/v3/topics/19916024"
+    },
+    {
+      "avatar_url": "https://pic4.zhimg.com/50/e82bab09c_hd.jpg",
+      "excerpt": "在计算机科学领域，通过名字来应用各类对象，命名空间则是用于组织这些对象的一组符号。 例如： 文件系统是为文件命名的命名空间编程语言通过命名空间组织变量和子程序计算机网络和分布式系统为打印机、网站、远程文件等各类资源命名",
+      "id": "19966392",
+      "introduction": "在计算机科学领域，通过名字来应用各类对象，命名空间则是用于组织这些对象的一组符号。<br><br>例如：<br><ul><li>文件系统是为文件命名的命名空间</li><li>编程语言通过命名空间组织变量和子程序</li><li>计算机网络和分布式系统为打印机、网站、远程文件等各类资源命名</li></ul>",
+      "name": "命名空间",
+      "type": "topic",
+      "url": "http://www.zhihu.com/api/v3/topics/19966392"
+    },
+    {
+      "avatar_url": "https://pic1.zhimg.com/50/043d371ed_hd.jpg",
+      "excerpt": "这是一个日新月异的领域！",
+      "id": "19564127",
+      "introduction": "这是一个日新月异的领域！",
+      "name": "计算机技术",
+      "type": "topic",
+      "url": "http://www.zhihu.com/api/v3/topics/19564127"
+    },
+    {
+      "avatar_url": "https://pic4.zhimg.com/50/v2-fb211c4c03e3777e06458a98c13c0a7f_hd.jpg",
+      "excerpt": "Computer Graphics 原意指计算机图形，现在更多指借助计算机的绘画",
+      "id": "19570122",
+      "introduction": "Computer Graphics<br>原意指计算机图形，现在更多指借助计算机的绘画",
+      "name": "CG",
+      "type": "topic",
+      "url": "http://www.zhihu.com/api/v3/topics/19570122"
+    },
+    {
+      "avatar_url": "https://pic4.zhimg.com/50/e82bab09c_hd.jpg",
+      "excerpt": "",
+      "id": "20073278",
+      "introduction": "",
+      "name": "proof assistant",
+      "type": "topic",
+      "url": "http://www.zhihu.com/api/v3/topics/20073278"
+    },
+    {
+      "avatar_url": "https://pic2.zhimg.com/50/v2-363459dc760beaabbac7783d2a0bd789_hd.jpg",
+      "excerpt": "计算机视觉研究如何让计算机从图像和视频中获取高级、抽象的信息。从工程的角度来讲，计算机视觉可以使以来人类视觉的任务自动化。 计算机视觉包含如下一些分支：画面重建，事件监测，目标跟踪，目标识别，机器学习，索引建立，图像恢复等。",
+      "id": "19590195",
+      "introduction": "计算机视觉研究如何让计算机从图像和视频中获取高级、抽象的信息。从工程的角度来讲，计算机视觉可以使以来人类视觉的任务自动化。<br>计算机视觉包含如下一些分支：画面重建，事件监测，目标跟踪，目标识别，机器学习，索引建立，图像恢复等。",
+      "name": "计算机视觉",
+      "type": "topic",
+      "url": "http://www.zhihu.com/api/v3/topics/19590195"
+    },
+    {
+      "avatar_url": "https://pic4.zhimg.com/50/e82bab09c_hd.jpg",
+      "excerpt": "",
+      "id": "20034967",
+      "introduction": "",
+      "name": "ccf",
+      "type": "topic",
+      "url": "http://www.zhihu.com/api/v3/topics/20034967"
+    },
+    {
+      "avatar_url": "https://pic4.zhimg.com/50/v2-5d891d8a43aa5dfa590a644bb84d298f_hd.jpg",
+      "excerpt": "",
+      "id": "19770126",
+      "introduction": "",
+      "name": "计算机科学与技术专业学生",
+      "type": "topic",
+      "url": "http://www.zhihu.com/api/v3/topics/19770126"
+    }
+  ],
+  "paging": {
+    "is_end": false,
+    "is_start": true,
+    "next": "http://www.zhihu.com/api/v3/topics/19580349/children?limit=10&offset=10",
+    "previous": "http://www.zhihu.com/api/v3/topics/19580349/children?limit=10&offset=0"
+  }
+}

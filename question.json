@@ -1,0 +1,245 @@
+{
+  "paging": {
+    "is_end": false,
+    "totals": 40,
+    "previous": "http://www.zhihu.com/api/v4/questions/270440626/answers?limit=3&offset=0&include=data%5B%2A%5D.is_normal%2Cadmin_closed_comment%2Creward_info%2Cis_collapsed%2Cannotation_action%2Cannotation_detail%2Ccollapse_reason%2Cis_sticky%2Ccollapsed_by%2Csuggest_edit%2Ccomment_count%2Ccan_comment%2Ccontent%2Ceditable_content%2Cvoteup_count%2Creshipment_settings%2Ccomment_permission%2Ccreated_time%2Cupdated_time%2Creview_info%2Crelevant_info%2Cquestion%2Cexcerpt%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%2Cupvoted_followees&data%5B%2A%5D.author.follower_count%2Cbadge%5B%3F%28type=best_answerer%29%5D.topics&data%5B%2A%5D.mark_infos%5B%2A%5D.url=&sort_by=default",
+    "is_start": true,
+    "next": "http://www.zhihu.com/api/v4/questions/270440626/answers?limit=3&offset=3&include=data%5B%2A%5D.is_normal%2Cadmin_closed_comment%2Creward_info%2Cis_collapsed%2Cannotation_action%2Cannotation_detail%2Ccollapse_reason%2Cis_sticky%2Ccollapsed_by%2Csuggest_edit%2Ccomment_count%2Ccan_comment%2Ccontent%2Ceditable_content%2Cvoteup_count%2Creshipment_settings%2Ccomment_permission%2Ccreated_time%2Cupdated_time%2Creview_info%2Crelevant_info%2Cquestion%2Cexcerpt%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%2Cupvoted_followees&data%5B%2A%5D.author.follower_count%2Cbadge%5B%3F%28type=best_answerer%29%5D.topics&data%5B%2A%5D.mark_infos%5B%2A%5D.url=&sort_by=default"
+  },
+  "data": [
+    {
+      "suggest_edit": {
+        "status": false,
+        "reason": "",
+        "title": "",
+        "url": "",
+        "unnormal_details": {},
+        "tip": ""
+      },
+      "relationship": {
+        "upvoted_followees": [],
+        "is_author": false,
+        "is_nothelp": false,
+        "is_authorized": false,
+        "voting": 0,
+        "is_thanked": false
+      },
+      "editable_content": "",
+      "relevant_info": {
+        "is_relevant": false
+      },
+      "excerpt": "相信题主去了女仆咖啡店以后应该也收获了愉快的回忆吧，本来就是想说一些个人的小建议的。没想到争议还挺大？我这个人没办法，就喜欢说实话。在工作的时候，其实大部分顾客我都很喜欢，他们就是喜欢来和我们聊聊天而已，店里气氛很轻松。谁见到一群活泼可爱…",
+      "annotation_action": [],
+      "admin_closed_comment": false,
+      "collapsed_by": "nobody",
+      "can_comment": {
+        "status": true,
+        "reason": ""
+      },
+      "created_time": 1522401790,
+      "id": 354408193,
+      "voteup_count": 937,
+      "collapse_reason": "",
+      "is_collapsed": false,
+      "author": {
+        "avatar_url_template": "https://pic4.zhimg.com/v2-b63beac70ffab173af2b40609806000b_{size}.jpg",
+        "type": "people",
+        "name": "最原终一",
+        "url": "http://www.zhihu.com/api/v4/people/9b16d5680a3f663f7690a708ad629502",
+        "gender": 0,
+        "user_type": "people",
+        "url_token": "lin-a-jue",
+        "is_advertiser": false,
+        "avatar_url": "https://pic4.zhimg.com/v2-b63beac70ffab173af2b40609806000b_is.jpg",
+        "is_org": false,
+        "headline": "coser。一个长的很丑的姬佬。",
+        "badge": [],
+        "id": "9b16d5680a3f663f7690a708ad629502"
+      },
+      "url": "http://www.zhihu.com/api/v4/answers/354408193",
+      "comment_permission": "all",
+      "is_sticky": false,
+      "question": {
+        "question_type": "normal",
+        "created": 1522377363,
+        "url": "http://www.zhihu.com/api/v4/questions/270440626",
+        "title": "第一次去女仆咖啡厅应注意些什么？",
+        "type": "question",
+        "id": 270440626,
+        "updated_time": 1522377363
+      },
+      "updated_time": 1524143791,
+      "content": "<p>相信题主去了女仆咖啡店以后应该也收获了愉快的回忆吧，本来就是想说一些个人的小建议的。没想到争议还挺大？</p><p>我这个人没办法，就喜欢说实话。</p><p>在工作的时候，其实大部分顾客我都很喜欢，他们就是喜欢来和我们聊聊天而已，店里气氛很轻松。谁见到一群活泼可爱的女孩子坐在温暖的小店里不会心情愉快呢？</p><p>但确实也遇见了一些非常让我嫌弃鄙视的客人。出于我个人原因，暂时不想分享这些经历。评论真的是很奇怪了。所谓的死宅内心的龌龊思想有什么好洗的？谁还没有了？</p><p>但是不好意思，你说出来表现出来给人家妹子知道，就是不尊重人家妹子，就是不对。</p><p><br></p><p>尊重是互相的。像题主这样还特别来提问去女仆咖啡店要注意些什么的，形象和谈吐，每一点都考虑到。虽然倒真不至于那么考究，我个人觉得题主就比某些说话还要经过生殖器的家伙强太多太多。</p><p><br></p><p>刻意跟我抬杠的就来啊？说的好像我怕了似的。</p><p><br></p><p><br></p><p><br></p><p>原答案：</p><p>之前做过一段时间的女仆，简单说一下。（不要惊讶为什么我会做女仆）</p><p><br></p><p>去那边工作的原因有，我很穷，这个地方赚的算比较多。那边有很多小姐姐。以及当时太天真，觉得能承受如此高消费的都是有素质的顾客。</p><p>对了，我没有底薪，有业绩才会有工资，店里还要提成的。而我业绩很低，基本没什么钱。</p><p><br></p><p>首先既然是去女仆咖啡厅，那必然主要是看妹子去的。所以，就不用去纠结什么“这个咖啡/蛋包饭怎么卖那么贵”这种问题了。也不用纠结“为什么点妹子那么贵”。</p><p><br></p><p>和妹子的交流保持正常范围就可以啦。如果你喜欢ACG文化，俗称二次元，可以和妹子们聊聊。如果喜欢玩游戏打农药，也可以和妹子们一起聊，也可以一起开黑来几盘的。（如果是我的话可以一起搓点炉石）这个倒是没什么好说。但如果你是个比较闷的人，也请放松心态。（看描述觉得题主有点紧张？）妹子们肯定不愿意客人看起来很紧张什么的，记住妹子们就是你的朋友，你呢，就抱着轻松的心态去享受这个服务就行。这里并不是什么高档场所，保持休闲就行，和你去KTV酒吧，和朋友约饭一样。</p><p>以前愿意光顾我的顾客并不多，有一个是只点了我的。他性格非常闷，话很少，所以店长非常随意地向他推荐了话很多的我。（话多是我在那家店唯一的卖点，专门负责处理这一类顾客）。渐渐的，我循着那位客人的话头聊着，他也放松下来，变得很开心了。让一个话不多眼神躲闪的人敞开心扉，我发自内心的高兴。这是我工作中一个很难忘的经历。</p><p>嗯，这位老兄是学中式点心的，我特别感兴趣。聊了很多相关话题，听他说上课的时候怎么揉面团擀面皮，我也顺着他的话题往下探讨着中华美食的博大精深（然而其实我想学做西点和咖啡来着）两个小时竟然也就很快过去。</p><p>也有一些朋友会和我聊桌游的事，游戏和最近的一些好看的新番，这些我都是能聊起来的话题。但是有一些人嘴里说的，真的我心里就是想翻白眼。</p><p><br></p><p>我见过一个人，这家伙问我，你平时玩cos吗？我说玩的。那时候我在店里走得是一种比较御姐的路子，于是他就给我翻出一张图，看起来像一个游戏里的女角色，不过我不太了解，大胸腿长，就是实在衣不蔽体。姿势还故意露出胖次脸上做嫌弃又傲娇的表情那种。他问我，这种出不出？</p><p>emmmm，我很想感谢他欣赏我。但是这种话题我实在是没办法投入进去了。</p><p><br></p><p><br></p><p>至于一些深入一点的问题吧。就是，不要对妹子动手动脚，不要做越界的举动。更不要轻易对任何妹子做评价。</p><p>以前见过一桌顾客，点了两个妹子，全程往姑娘身上蹭，姑娘脸色一直不好看，依然我行我素。结束以后还问妹子要微信。其实在当时我们店里为了培养熟客，妹子们是可以加客人微信的。但当时妹子就是不愿意，那个男的就一直问，把妹子逼到墙角去。直到另一个妹子假装很开心地带她出去买奶茶才把她救出来。</p><p>首先，女仆咖啡厅的妹子们大多数也都是兼职的学生，只是想赚点零用钱买几条小裙子而已。她们很单纯（大多数真的都是普通学生，没什么可以怀疑的）很可爱，但真的不是给客人发展什么感情的，也不是用来给客人动手动脚的，更不是窑子。要乱搞的请去夜总会好伐（去的起吗）？</p><p><br></p><p>当然大多数妹抖的看点是大胸啊长腿什么的（然而当时我们店里没有QAQ……很委屈，软绵绵的妹子不戳我啊！）</p><p>但是！也请尽量安静欣赏就行了，妹子们心里也是知道的，语言上就不要过多的那个什么了吧……</p><p><br></p><p>女仆装的本身含义只是可爱甜美而已。来女仆咖啡厅工作的妹子们，大多数也只是觉得穿上女仆装微笑会很可爱。她们的本心都是很纯真的，一种少女都会有的小小骄傲。我理解的女仆咖啡厅文化的初衷，是一种特殊的让客人开心的服务，给人一种亲切感，顺便满足一些人喜欢看可爱小姐姐的需要。仅此而已。</p><p>怎么好像在有些人眼里这就跟地下红灯区灰色产业似的？</p><p><br></p><p><br></p><p>至于为什么不要随意评价妹子，展露个人喜好？要知道，在这个年纪的小朋友，都是很要攀比的。特别是已经在这里工作的妹子们，当然希望自己是最可爱的。可能你的一些眼光和评价会无形中伤害到她们，这一点还请斟酌。相信她们那么可爱那么年轻，你也不愿意她们在看不见的地方偷偷沮丧吧？人与人的交流，保持尊重，相互理解。</p><p><br></p><p>最后，也请不要试图去深入了解女仆咖啡店内部的任何细节。虽然我也是个普通的女孩子，但我必须承认，女人很多的地方事情就很多。</p><p><br></p><p>其实挺想吐槽那个店长的。有一次听见她在很愉快地和客人聊出售店内女仆装的话题。客人眼神发光，说不要洗，要原味的。店长满脸自豪，说原味的价格翻倍。</p><p>当时吧，觉得她的表情如同一个老鸨。</p><p>而这个时候呢，我做了很不厚道的事。我说：我们衣服很脏啊。这里真的是我的错，我总是乱讲话，真的很抱歉。店长只好一脸尴尬，强行冷场了。</p><p>我默默看了一眼身上昨天吃麻辣烫的油渍，还有隔壁小姑娘围兜上残留的上个星期吃火锅留下的酱料，巧克力粉，奶油渍，还有口红印，粉底残留，化妆品和辣条混合在一起的味道……心想：你们认真的吗？</p><p>不多说了，四斋什么来着？</p><p>别想太多，真的。</p><p><br></p><p>至于为什么离职，主要是因为没有顾客看我比较顺眼。其次就是，我不喜欢男人。</p><p><br></p><p><br></p><p><br></p><p>评论是智商重灾区。抱歉，有些男性同胞啊，思维真的是让我很想吐。现在已将精彩评论放上推荐，供大家群嘲赏玩。</p><p><br></p><p>其实吧，写这个答案以后，我就特别喜欢怼人。我没有以前温柔了，我觉得自己很罪恶，因为我已经喜欢上你们说不过我的感觉了。各位屌丝屌精杠精直男癌社会垃圾，还有什么想冷嘲热讽的请有杠直抬，别让爷爷我久等。呵呵。</p><p><br></p><p>喜欢我的也不用点关注，我的想法能给别人带来启发和感触是我的荣幸，不过我只想要你们夸我一声好看。</p>",
+      "comment_count": 241,
+      "extras": "",
+      "reshipment_settings": "allowed",
+      "reward_info": {
+        "reward_member_count": 0,
+        "tagline": "",
+        "reward_total_money": 0,
+        "can_open_reward": false,
+        "is_rewardable": false
+      },
+      "is_copyable": true,
+      "type": "answer",
+      "thumbnail": "",
+      "is_normal": true
+    },
+    {
+      "suggest_edit": {
+        "status": false,
+        "reason": "",
+        "title": "",
+        "url": "",
+        "unnormal_details": {},
+        "tip": ""
+      },
+      "relationship": {
+        "upvoted_followees": [],
+        "is_author": false,
+        "is_nothelp": false,
+        "is_authorized": false,
+        "voting": 0,
+        "is_thanked": false
+      },
+      "editable_content": "",
+      "relevant_info": {
+        "is_relevant": false
+      },
+      "excerpt": "可能要注意年龄吧。。 。前几年去了秋叶原，辛辛苦苦找了好久的女仆咖啡厅，进门小姐姐们就一脸惊恐的向我挥手，并且指了指门口的十八禁的标识，然后我就尴尬的走了。等我明年再去的时候我就可以光明正大的坐下了呢。",
+      "annotation_action": [],
+      "admin_closed_comment": false,
+      "collapsed_by": "nobody",
+      "can_comment": {
+        "status": true,
+        "reason": ""
+      },
+      "created_time": 1523362955,
+      "id": 363441142,
+      "voteup_count": 260,
+      "collapse_reason": "",
+      "is_collapsed": false,
+      "author": {
+        "avatar_url_template": "https://pic4.zhimg.com/v2-1067f220466a6fe698f0893e8079f8ba_{size}.jpg",
+        "type": "people",
+        "name": "1107",
+        "url": "http://www.zhihu.com/api/v4/people/a6ad504595f3fcf82edf0b5991167df5",
+        "gender": 1,
+        "user_type": "people",
+        "url_token": "1107-67",
+        "is_advertiser": false,
+        "avatar_url": "https://pic4.zhimg.com/v2-1067f220466a6fe698f0893e8079f8ba_is.jpg",
+        "is_org": false,
+        "headline": "",
+        "badge": [],
+        "id": "a6ad504595f3fcf82edf0b5991167df5"
+      },
+      "url": "http://www.zhihu.com/api/v4/answers/363441142",
+      "comment_permission": "all",
+      "is_sticky": false,
+      "question": {
+        "question_type": "normal",
+        "created": 1522377363,
+        "url": "http://www.zhihu.com/api/v4/questions/270440626",
+        "title": "第一次去女仆咖啡厅应注意些什么？",
+        "type": "question",
+        "id": 270440626,
+        "updated_time": 1522377363
+      },
+      "updated_time": 1523362955,
+      "content": "<p>可能要注意年龄吧。。 。</p><p>前几年去了秋叶原，辛辛苦苦找了好久的女仆咖啡厅，进门小姐姐们就一脸惊恐的向我挥手，并且指了指门口的十八禁的标识，然后我就尴尬的走了。</p><p>等我明年再去的时候我就可以光明正大的坐下了呢。</p>",
+      "comment_count": 31,
+      "extras": "",
+      "reshipment_settings": "allowed",
+      "reward_info": {
+        "reward_member_count": 0,
+        "tagline": "",
+        "reward_total_money": 0,
+        "can_open_reward": false,
+        "is_rewardable": false
+      },
+      "is_copyable": true,
+      "type": "answer",
+      "thumbnail": "",
+      "is_normal": true
+    },
+    {
+      "suggest_edit": {
+        "status": false,
+        "reason": "",
+        "title": "",
+        "url": "",
+        "unnormal_details": {},
+        "tip": ""
+      },
+      "relationship": {
+        "upvoted_followees": [],
+        "is_author": false,
+        "is_nothelp": false,
+        "is_authorized": false,
+        "voting": 0,
+        "is_thanked": false
+      },
+      "editable_content": "",
+      "relevant_info": {
+        "is_relevant": false
+      },
+      "excerpt": "没什么需要注意的 我去了无数次女仆咖啡厅 有的时候甚至达到一个月三四次这样子，所以这题我要答！ 去的哪家？ 上海思南公馆那家萌果酱 至于为啥咧？ 为了梦100、es、刀剑乱舞……的线下cafe活动（咳 可能因为这家一直做女性向游戏主题cafe所以我去的时候对…",
+      "annotation_action": [],
+      "admin_closed_comment": false,
+      "collapsed_by": "nobody",
+      "can_comment": {
+        "status": true,
+        "reason": ""
+      },
+      "created_time": 1522429343,
+      "id": 354719528,
+      "voteup_count": 62,
+      "collapse_reason": "",
+      "is_collapsed": false,
+      "author": {
+        "avatar_url_template": "https://pic3.zhimg.com/v2-614107aef3f902a62e7df4ec1fa0361c_{size}.jpg",
+        "type": "people",
+        "name": "白毛毛的friends",
+        "url": "http://www.zhihu.com/api/v4/people/ab2a6663be2ca53775e3ebb6eac75288",
+        "gender": 0,
+        "user_type": "people",
+        "url_token": "bai-mao-mao-mao-bai-bai",
+        "is_advertiser": false,
+        "avatar_url": "https://pic3.zhimg.com/v2-614107aef3f902a62e7df4ec1fa0361c_is.jpg",
+        "is_org": false,
+        "headline": "如果有一天我见到上帝，我会告诉他我很幸福。",
+        "badge": [],
+        "id": "ab2a6663be2ca53775e3ebb6eac75288"
+      },
+      "url": "http://www.zhihu.com/api/v4/answers/354719528",
+      "comment_permission": "all",
+      "is_sticky": false,
+      "question": {
+        "question_type": "normal",
+        "created": 1522377363,
+        "url": "http://www.zhihu.com/api/v4/questions/270440626",
+        "title": "第一次去女仆咖啡厅应注意些什么？",
+        "type": "question",
+        "id": 270440626,
+        "updated_time": 1522377363
+      },
+      "updated_time": 1522429462,
+      "content": "没什么需要注意的<br><br><br>我去了无数次女仆咖啡厅 有的时候甚至达到一个月三四次这样子，所以这题我要答！<br><br>去的哪家？<br><br>上海思南公馆那家萌果酱<br><br>至于为啥咧？<br><br>为了梦100、es、刀剑乱舞……的线下cafe活动（咳<br><br>可能因为这家一直做女性向游戏主题cafe所以我去的时候对小姐姐的关注度不算很高。<br><br>但是我个人的感觉就是服务很不错，小姐姐们都很好相处很好说话，都挺落落大方的，so 你也不要在心里脑补戏精场合。<br>小姐姐们都挺健谈的，反正不会出现被盐处理的情况，哪怕是在楼下等待cafe开始的时候我和登记处的小姐姐闲聊，都感觉的出对方很有职业素养，很健谈。<br><br>所以我觉得如果去的话不需要特别拘束，也不需要特别小心，就当去普通吃个饭好了。<br>但是千万不要直男癌，比如侮辱小姐姐或者觉得自己可以为所欲为，甚至真的把自己当主人（这么看来我觉得还不如让消费者们拘束一点，为了小姐姐们好）<br><br>反正尊重是互相的<br><br>顺便萌果酱的女仆装是内部定制的，之前看到她们穿了一个大衣感觉很好看很适合搭配lo裙想问一下哪儿买的结果告诉我是她们内部自己定制的so sad。<br><br><br>菜单价格<br><br>差不多一杯调治饮料18块钱左右<br><br>餐点35到70这样子<br><br>消费不算高，但是性价比不高，东西反正算不上好吃，就一般咖啡厅水平，不要冲着想吃顿好的心态去，保证不能满足你。",
+      "comment_count": 9,
+      "extras": "",
+      "reshipment_settings": "allowed",
+      "reward_info": {
+        "reward_member_count": 0,
+        "tagline": "",
+        "reward_total_money": 0,
+        "can_open_reward": false,
+        "is_rewardable": false
+      },
+      "is_copyable": true,
+      "type": "answer",
+      "thumbnail": "",
+      "is_normal": true
+    }
+  ]
+}

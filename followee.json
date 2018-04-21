@@ -1,0 +1,301 @@
+{
+  "paging": {
+    "is_end": true,
+    "totals": 17,
+    "previous": "http://www.zhihu.com/api/v4/members/li-mu-23/followees?limit=20&offset=0",
+    "is_start": true,
+    "next": "http://www.zhihu.com/api/v4/members/li-mu-23/followees?limit=20&offset=20"
+  },
+  "data": [
+    {
+      "avatar_url_template": "https://pic3.zhimg.com/v2-3d6ed38ff67d7b1782d0386518fbf72d_{size}.jpg",
+      "name": "AWS云计算",
+      "is_advertiser": false,
+      "url": "http://www.zhihu.com/api/v4/people/d354f56f08d0764ded5a68eb036f5ba6",
+      "badge": [
+        {
+          "type": "identity",
+          "description": "已认证的官方帐号"
+        }
+      ],
+      "user_type": "organization",
+      "url_token": "aws-54",
+      "headline": "携手AWS，与云共舞",
+      "avatar_url": "https://pic3.zhimg.com/v2-3d6ed38ff67d7b1782d0386518fbf72d_is.jpg",
+      "is_org": true,
+      "gender": -1,
+      "type": "people",
+      "id": "d354f56f08d0764ded5a68eb036f5ba6"
+    },
+    {
+      "avatar_url_template": "https://pic4.zhimg.com/da8e974dc_{size}.jpg",
+      "name": "crowowrk",
+      "is_advertiser": false,
+      "url": "http://www.zhihu.com/api/v4/people/1d09d935246523c51f69bd13d3c35cfe",
+      "badge": [],
+      "user_type": "people",
+      "url_token": "crowowrk",
+      "headline": "",
+      "avatar_url": "https://pic4.zhimg.com/da8e974dc_is.jpg",
+      "is_org": false,
+      "gender": -1,
+      "type": "people",
+      "id": "1d09d935246523c51f69bd13d3c35cfe"
+    },
+    {
+      "avatar_url_template": "https://pic1.zhimg.com/v2-aba761c3db16505731ae0d56d278b117_{size}.jpg",
+      "name": "解浚源",
+      "is_advertiser": false,
+      "url": "http://www.zhihu.com/api/v4/people/e82eed9cc724d983c41ad59483b90fdc",
+      "badge": [
+        {
+          "type": "best_answerer",
+          "description": "优秀回答者"
+        }
+      ],
+      "user_type": "people",
+      "url_token": "eric314",
+      "headline": "深度学习/MXNet中文社区 <a href=\"https://link.zhihu.com/?target=https%3A//discuss.gluon.ai\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">discuss.gluon.ai</span><span class=\"invisible\"></span></a>",
+      "avatar_url": "https://pic1.zhimg.com/v2-aba761c3db16505731ae0d56d278b117_is.jpg",
+      "is_org": false,
+      "gender": 1,
+      "type": "people",
+      "id": "e82eed9cc724d983c41ad59483b90fdc"
+    },
+    {
+      "avatar_url_template": "https://pic1.zhimg.com/7651f51e1_{size}.jpg",
+      "name": "周博磊",
+      "is_advertiser": false,
+      "url": "http://www.zhihu.com/api/v4/people/cbb829f60195651c37e4499286639be6",
+      "badge": [
+        {
+          "type": "best_answerer",
+          "description": "优秀回答者"
+        }
+      ],
+      "user_type": "people",
+      "url_token": "zhou-bo-lei",
+      "headline": "MIT博士在读, AI方向。",
+      "avatar_url": "https://pic1.zhimg.com/7651f51e1_is.jpg",
+      "is_org": false,
+      "gender": 1,
+      "type": "people",
+      "id": "cbb829f60195651c37e4499286639be6"
+    },
+    {
+      "avatar_url_template": "https://pic2.zhimg.com/e3a7c0c55_{size}.jpg",
+      "name": "Filestorm",
+      "is_advertiser": false,
+      "url": "http://www.zhihu.com/api/v4/people/023168605414b37bb83aa96a5bc05205",
+      "badge": [
+        {
+          "type": "best_answerer",
+          "description": "优秀回答者"
+        }
+      ],
+      "user_type": "people",
+      "url_token": "filestorm",
+      "headline": "图森互联 TuSimple",
+      "avatar_url": "https://pic2.zhimg.com/e3a7c0c55_is.jpg",
+      "is_org": false,
+      "gender": 1,
+      "type": "people",
+      "id": "023168605414b37bb83aa96a5bc05205"
+    },
+    {
+      "avatar_url_template": "https://pic3.zhimg.com/v2-f6f17a7769b143726367139196cea95f_{size}.jpg",
+      "name": "严林",
+      "is_advertiser": false,
+      "url": "http://www.zhihu.com/api/v4/people/dcb32aa26dd3a456bd79d2c2cdffa433",
+      "badge": [
+        {
+          "type": "best_answerer",
+          "description": "优秀回答者"
+        }
+      ],
+      "user_type": "people",
+      "url_token": "yan.lin",
+      "headline": "机器学习阅历路上",
+      "avatar_url": "https://pic3.zhimg.com/v2-f6f17a7769b143726367139196cea95f_is.jpg",
+      "is_org": false,
+      "gender": 1,
+      "type": "people",
+      "id": "dcb32aa26dd3a456bd79d2c2cdffa433"
+    },
+    {
+      "avatar_url_template": "https://pic4.zhimg.com/362e18b8a8c106d4617b9f3ca3771200_{size}.jpg",
+      "name": "gnaW nesuhS",
+      "is_advertiser": false,
+      "url": "http://www.zhihu.com/api/v4/people/8c3a8eefd51943127bbed4a0eb92e2c4",
+      "badge": [],
+      "user_type": "people",
+      "url_token": "shusenwang",
+      "headline": "machine learning",
+      "avatar_url": "https://pic4.zhimg.com/362e18b8a8c106d4617b9f3ca3771200_is.jpg",
+      "is_org": false,
+      "gender": 1,
+      "type": "people",
+      "id": "8c3a8eefd51943127bbed4a0eb92e2c4"
+    },
+    {
+      "avatar_url_template": "https://pic1.zhimg.com/332f2d9e4_{size}.jpg",
+      "name": "贾扬清",
+      "is_advertiser": false,
+      "url": "http://www.zhihu.com/api/v4/people/7b05ff0c9118c26df2b5b133d6dfbc46",
+      "badge": [
+        {
+          "type": "best_answerer",
+          "description": "优秀回答者"
+        }
+      ],
+      "user_type": "people",
+      "url_token": "jiayangqing",
+      "headline": "关注机器学习和人工智能平台",
+      "avatar_url": "https://pic1.zhimg.com/332f2d9e4_is.jpg",
+      "is_org": false,
+      "gender": 1,
+      "type": "people",
+      "id": "7b05ff0c9118c26df2b5b133d6dfbc46"
+    },
+    {
+      "avatar_url_template": "https://pic4.zhimg.com/da923e3c13f4890c0ca20a4493a1741e_{size}.jpg",
+      "name": "叶文",
+      "is_advertiser": false,
+      "url": "http://www.zhihu.com/api/v4/people/fb8eb0ac6f1f172837fd44d05b1353dc",
+      "badge": [],
+      "user_type": "people",
+      "url_token": "whusnoopy",
+      "headline": "攻城师",
+      "avatar_url": "https://pic4.zhimg.com/da923e3c13f4890c0ca20a4493a1741e_is.jpg",
+      "is_org": false,
+      "gender": 1,
+      "type": "people",
+      "id": "fb8eb0ac6f1f172837fd44d05b1353dc"
+    },
+    {
+      "avatar_url_template": "https://pic3.zhimg.com/2327cd88f_{size}.jpg",
+      "name": "刘江",
+      "is_advertiser": false,
+      "url": "http://www.zhihu.com/api/v4/people/1daf12e63aeb567c907192d98c0f9c30",
+      "badge": [],
+      "user_type": "people",
+      "url_token": "liujiang",
+      "headline": "美团点评首席程序员鼓励师",
+      "avatar_url": "https://pic3.zhimg.com/2327cd88f_is.jpg",
+      "is_org": false,
+      "gender": 1,
+      "type": "people",
+      "id": "1daf12e63aeb567c907192d98c0f9c30"
+    },
+    {
+      "avatar_url_template": "https://pic4.zhimg.com/da8e974dc_{size}.jpg",
+      "name": "TianqiZhang",
+      "is_advertiser": false,
+      "url": "http://www.zhihu.com/api/v4/people/e1e330ce698a782f6aa92356edae709f",
+      "badge": [],
+      "user_type": "people",
+      "url_token": "zhang-tian-qi",
+      "headline": "码农",
+      "avatar_url": "https://pic4.zhimg.com/da8e974dc_is.jpg",
+      "is_org": false,
+      "gender": -1,
+      "type": "people",
+      "id": "e1e330ce698a782f6aa92356edae709f"
+    },
+    {
+      "avatar_url_template": "https://pic1.zhimg.com/71044e91d_{size}.jpg",
+      "name": "田渊栋",
+      "is_advertiser": false,
+      "url": "http://www.zhihu.com/api/v4/people/9819f6938be0d3bb133ad0151eefd188",
+      "badge": [
+        {
+          "type": "best_answerer",
+          "description": "优秀回答者"
+        }
+      ],
+      "user_type": "people",
+      "url_token": "tian-yuan-dong",
+      "headline": "Facebook人工智能研究院研究员/研究经理，卡耐基梅隆大学机器人系博士",
+      "avatar_url": "https://pic1.zhimg.com/71044e91d_is.jpg",
+      "is_org": false,
+      "gender": 1,
+      "type": "people",
+      "id": "9819f6938be0d3bb133ad0151eefd188"
+    },
+    {
+      "avatar_url_template": "https://pic4.zhimg.com/da8e974dc_{size}.jpg",
+      "name": "金瓯",
+      "is_advertiser": false,
+      "url": "http://www.zhihu.com/api/v4/people/230eea7a86670aef060a3f13758a257c",
+      "badge": [],
+      "user_type": "people",
+      "url_token": "jin-ou-55",
+      "headline": "",
+      "avatar_url": "https://pic4.zhimg.com/da8e974dc_is.jpg",
+      "is_org": false,
+      "gender": -1,
+      "type": "people",
+      "id": "230eea7a86670aef060a3f13758a257c"
+    },
+    {
+      "avatar_url_template": "https://pic2.zhimg.com/48a091259_{size}.jpg",
+      "name": "李丕绩",
+      "is_advertiser": false,
+      "url": "http://www.zhihu.com/api/v4/people/db0b22eeacc0d989e4b0fee37eddc873",
+      "badge": [],
+      "user_type": "people",
+      "url_token": "pijili",
+      "headline": "NLP, DL, <a href=\"https://link.zhihu.com/?target=http%3A//lipiji.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">lipiji.com</span><span class=\"invisible\"></span></a>",
+      "avatar_url": "https://pic2.zhimg.com/48a091259_is.jpg",
+      "is_org": false,
+      "gender": 1,
+      "type": "people",
+      "id": "db0b22eeacc0d989e4b0fee37eddc873"
+    },
+    {
+      "avatar_url_template": "https://pic4.zhimg.com/da8e974dc_{size}.jpg",
+      "name": "刘赛瑜",
+      "is_advertiser": false,
+      "url": "http://www.zhihu.com/api/v4/people/dee2159b91e17e1350cb68addec708d1",
+      "badge": [],
+      "user_type": "people",
+      "url_token": "liusaiyu",
+      "headline": "金融界的一个小菜鸟",
+      "avatar_url": "https://pic4.zhimg.com/da8e974dc_is.jpg",
+      "is_org": false,
+      "gender": -1,
+      "type": "people",
+      "id": "dee2159b91e17e1350cb68addec708d1"
+    },
+    {
+      "avatar_url_template": "https://pic4.zhimg.com/5ac97d44f_{size}.jpg",
+      "name": "胡昊",
+      "is_advertiser": false,
+      "url": "http://www.zhihu.com/api/v4/people/cd621ee0b485698562e748e2d8197b97",
+      "badge": [],
+      "user_type": "people",
+      "url_token": "derekhh",
+      "headline": "A very bad engineer",
+      "avatar_url": "https://pic4.zhimg.com/5ac97d44f_is.jpg",
+      "is_org": false,
+      "gender": 1,
+      "type": "people",
+      "id": "cd621ee0b485698562e748e2d8197b97"
+    },
+    {
+      "avatar_url_template": "https://pic1.zhimg.com/v2-d4c892f0abc1ef195d44a8fd8ffc4ed6_{size}.jpg",
+      "name": "Timfaya",
+      "is_advertiser": false,
+      "url": "http://www.zhihu.com/api/v4/people/2abbc646ce6e1cb653a2069d1791f522",
+      "badge": [],
+      "user_type": "people",
+      "url_token": "samstag",
+      "headline": "人肉推荐引擎",
+      "avatar_url": "https://pic1.zhimg.com/v2-d4c892f0abc1ef195d44a8fd8ffc4ed6_is.jpg",
+      "is_org": false,
+      "gender": 1,
+      "type": "people",
+      "id": "2abbc646ce6e1cb653a2069d1791f522"
+    }
+  ]
+}

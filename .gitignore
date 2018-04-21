@@ -1,0 +1,4 @@
+*.gpickle
+/__pycache__
+/Reference
+.docx
