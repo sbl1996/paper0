@@ -33,7 +33,7 @@ def interest_graph(name, alpha=0.5, beta=0.5):
   name : str
       Name of user.
   alpha : float
-      Factor of CONTRIBS.
+      Factor of INFL.
 
   Returns
   -------
